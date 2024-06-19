@@ -56,7 +56,7 @@ footer {
     margin: 0 auto;
 }
 .box-pink {
-    background-color: #f7a8b8; /* Cambia el color de fondo del cuadro a rosado */
-    padding: 20px; /* Añade espacio alrededor del contenido dentro del cuadro */
-    border-radius: 10px; /* Agrega bordes redondeados al cuadro */
+    background-color: #f7a8b8; 
+    padding: 20px; 
+    border-radius: 10px; 
 }
