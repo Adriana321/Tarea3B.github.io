@@ -6,7 +6,7 @@ body {
     color: #333;
 }
 
-/* Estilos para el encabezado */
+
 header {
     background-color: #ef8ad9;
     color: #fff;
@@ -14,7 +14,7 @@ header {
     text-align: center;
 }
 
-/* Estilos para el contenido principal */
+
 main {
     padding: 20px;
 }
@@ -27,7 +27,7 @@ h2 {
     color: #0056b3;
 }
 
-/* Estilos para enlaces */
+
 a {
     color: #0056b3;
     text-decoration: none;
@@ -37,7 +37,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Estilos para el pie de página */
+
 footer {
     background-color: #9e2473;
     color: #fff;
@@ -52,8 +52,8 @@ footer {
 }
 
 .center img {
-    display: block; /* Hace que la imagen sea un bloque */
-    margin: 0 auto; /* Centra la imagen horizontalmente */
+    display: block; 
+    margin: 0 auto;
 }
 .box-pink {
     background-color: #f7a8b8; /* Cambia el color de fondo del cuadro a rosado */
